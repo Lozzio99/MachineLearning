@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IJML/IJML.iml" filepath="$PROJECT_DIR$/IJML/IJML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IPML/IPML.iml" filepath="$PROJECT_DIR$/IPML/IPML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MachineLearning.iml" filepath="$PROJECT_DIR$/MachineLearning.iml" />
+    </modules>
+  </component>
+</project>
